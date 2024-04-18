@@ -1,5 +1,5 @@
-<
-# u# Forex Marketplace
+
+## Forex Marketplace
 
 Forex Marketplace is a platform that facilitates buying and selling of foreign exchange (forex) with real-time conversion rates fetched from an external API. This project is implemented using NestJS, TypeScript, TypeORM, and MongoDB, following a microservices architecture.
 
@@ -39,7 +39,7 @@ The project follows a monorepo structure using tools like Nx or Lerna. Each serv
 ## Technology Stack
 
 - Backend Framework: NestJS with TypeScript
-- Database: MongoDB integrated using TypeORM or Mongoose
+- Database: MongoDB integrated using Mongoose
 - Internal Communication: gRPC
 - External API: REST for user-facing endpoints
 
@@ -48,6 +48,9 @@ The project follows a monorepo structure using tools like Nx or Lerna. Each serv
 To set up the project locally, follow these steps:
 
 1. Clone the repository.
+```bash
+git clone https://github.com/Fidel-wole/Simple -Forex-Marketplace-With-NestJs.git
+```
 2. Install dependencies.
 3. Set up environment variables.
 4. Set up MongoDB.
@@ -63,4 +66,4 @@ Contributions are welcome! If you have any ideas, bug fixes, or improvements, fe
 
 ## License
 
-This project is licensed under the M
+This project is licensed under the MIT License
