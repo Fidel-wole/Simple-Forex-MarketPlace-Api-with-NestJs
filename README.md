@@ -49,12 +49,19 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository.
 ```bash
-git clone https://github.com/Fidel-wole/Simple -Forex-Marketplace-With-NestJs.git
+git clone https://github.com/Fidel-wole/Simple -Forex-Marketplace-Api-with-NestJs.git
 ```
 2. Install dependencies.
+```bash
+cd Simple -Forex-Marketplace-Api-with-NestJs
+npm install
+```
 3. Set up environment variables.
 4. Set up MongoDB.
 5. Start the services.
+```bash
+npm run start:dev
+```
 
 ## Usage
 
